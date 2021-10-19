@@ -30,10 +30,10 @@ $mysql_server  = 'localhost';
  * server directory paths *
  * ---------------------- */
 
-$cqpweb_tempdir   = '';
-$cqpweb_uploaddir = '';
-$cwb_datadir      = '';
-$cwb_registry     = '';
+$cqpweb_tempdir   = '/var/www/cqpweb/temp/tmp';
+$cqpweb_uploaddir = '/var/www/cqpweb/temp/upload';
+$cwb_datadir      = '/var/www/cqpweb/temp/datadir';
+$cwb_registry     = '/var/www/cqpweb/temp/registry';
 
 
 
