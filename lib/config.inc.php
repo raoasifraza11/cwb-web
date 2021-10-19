@@ -20,7 +20,7 @@ $superuser_username = 'bob|jill';
  * database connection config *
  * -------------------------- */
 
-$mysql_webuser = 'root';
+$mysql_webuser = '';
 $mysql_webpass = '786@Pakistan';
 $mysql_schema  = 'cqpweb';
 $mysql_server  = 'localhost';
