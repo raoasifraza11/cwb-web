@@ -13,14 +13,14 @@
  * by | with no stray whitespace.      *
  * ----------------------------------- */
 
-$superuser_username = 'bob|jill';
+$superuser_username = 'ubuntu';
 
 
 /* -------------------------- *
  * database connection config *
  * -------------------------- */
 
-$mysql_webuser = '';
+$mysql_webuser = 'root';
 $mysql_webpass = '786@Pakistan';
 $mysql_schema  = 'cqpweb';
 $mysql_server  = 'localhost';
